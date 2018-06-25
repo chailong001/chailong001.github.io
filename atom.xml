@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-25T13:33:31.088Z</updated>
+  <updated>2018-06-25T14:42:55.486Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/06/25/ceshi/"/>
+    <id>http://yoursite.com/2018/06/25/ceshi/</id>
+    <published>2018-06-25T14:20:46.005Z</published>
+    <updated>2018-06-25T14:42:55.486Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title:ceshi<br>date:2018-06-25 22:20:45<br>author:chl<br>tags:kafka<br>categories:kafka</p><h2 id="blogexcerpt-这里是自定义文章摘要"><a href="#blogexcerpt-这里是自定义文章摘要" class="headerlink" title="blogexcerpt:这里是自定义文章摘要"></a>blogexcerpt:这里是自定义文章摘要</h2><p>这里是文章正文内容这里是文章正文内容这里是文章正文内容这</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;title:ceshi&lt;br&gt;date:2018-06-25 22:20:45&lt;br&gt;author:chl&lt;br&gt;tags:kafka&lt;br&gt;categories:kafka&lt;/p&gt;
+&lt;h2 id=&quot;blogexcerpt-这里是自定义文章摘要&quot;&gt;&lt;a href=
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title></title>
